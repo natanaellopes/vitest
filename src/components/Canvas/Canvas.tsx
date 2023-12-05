@@ -1,9 +1,5 @@
 import { useState } from 'react';
-
-type Point = {
-  x: number;
-  y: number;
-}
+import { Point } from './types';
 
 export const Canvas = () => {
   const [pointList, setPointList] = useState<Point[]>([]);

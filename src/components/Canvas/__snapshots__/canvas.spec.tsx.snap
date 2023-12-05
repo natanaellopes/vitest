@@ -1,20 +1,20 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`Canvas > Deve ser adicionado um ponto ao clicar no canvas 1`] = `
+exports[`Canvas > Should add one point when clicking on the canvas 1`] = `
 <div
   class="points"
   style="left: 3px; top: 3px;"
 />
 `;
 
-exports[`Canvas > Deve ser adicionados dois pontos ao clicar no canvas 1`] = `
+exports[`Canvas > Should add two points when clicking on the canvas 1`] = `
 <div
   class="points"
   style="left: 3px; top: 3px;"
 />
 `;
 
-exports[`Canvas > Deve ser adicionados dois pontos ao clicar no canvas 2`] = `
+exports[`Canvas > Should add two points when clicking on the canvas 2`] = `
 <div
   class="points"
   style="left: 13px; top: 13px;"
